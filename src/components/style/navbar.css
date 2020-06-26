@@ -1,0 +1,26 @@
+.containerNav{
+    display: flex;
+    background-color: #007f40;
+    flex-direction: row;
+    margin: 0;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    align-items: center;
+}
+
+.logo{
+    filter: brightness(0) invert(1);
+    width: 150px;
+    padding: 20px;
+}
+
+.textContainer{
+    margin-left: calc(50% - 300px);
+}
+
+h2{
+    
+    color: #fff;
+}
+
+
